@@ -1,1 +1,6 @@
-Introdução ao Git/Github- Projeto 1 (em andamento)
+Introdução ao Git/Github- Projeto 1 
+
+ (dia 17/10/23)
+ 	Aprendi o básico sobre Git e Github. Como criar um repósitorio, commitar, como clonar, sobre Branchs, como alterar e salvar reposiórios.
+	
+	
